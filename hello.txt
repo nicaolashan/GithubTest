@@ -1,3 +1,7 @@
 hello git
+<<<<<<< HEAD
 hello atguigu
 hhhh
+=======
+hello atguigu hahaha
+>>>>>>> hot-fix
